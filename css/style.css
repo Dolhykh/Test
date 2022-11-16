@@ -113,7 +113,7 @@ body {
 .hi__list {
 }
 .hi__list li {
-  background: url(/img/icons/icon.png) 0 1px no-repeat;
+  background: url(../img/icons/icon.png) 0 1px no-repeat;
   text-shadow: 1px 1px 0 rgba(0, 0, 0, 0.3);
   font-size: 20px;
   line-height: 22px;
